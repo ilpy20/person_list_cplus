@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\users\ilyap\documents\visual studio 2017\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char *(*)[15]'
+c:\users\ilyap\documents\visual studio 2017\consoleapplication1\consoleapplication1\consoleapplication1.cpp(17): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char *(*)[25]'
+c:\users\ilyap\documents\visual studio 2017\consoleapplication1\consoleapplication1\consoleapplication1.cpp(38): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char **'
+c:\users\ilyap\documents\visual studio 2017\consoleapplication1\consoleapplication1\consoleapplication1.cpp(38): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'const char **'
+c:\users\ilyap\documents\visual studio 2017\consoleapplication1\consoleapplication1\consoleapplication1.cpp(38): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'const char **'
+c:\users\ilyap\documents\visual studio 2017\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char **'
+c:\users\ilyap\documents\visual studio 2017\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'const char **'
+c:\users\ilyap\documents\visual studio 2017\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'const char **'
+  ConsoleApplication1.vcxproj -> C:\Users\ilyap\Documents\Visual Studio 2017\ConsoleApplication1\Debug\ConsoleApplication1.exe
